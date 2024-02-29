@@ -1,2 +1,2 @@
-print("hello world"
-print("testing scm"
+print("hello world")
+print("testing scm")
